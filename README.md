@@ -27,7 +27,7 @@
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
  I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="100%">
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="60%">
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m I am a Full Stack Developer Proficient in HTML, CSS, Bootstrap, JavaScript, Vue, Nuxt, React/Next,Node.js,ExpressJS, MongoDB; plus modern libraries and frameworks
