@@ -48,7 +48,9 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-smith-029346307)](https://www.linkedin.com/in/www.linkedin.com/in/john-smith-029346307) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/wjohn0143/)](https://github.com/wjohn0143/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-smith-029346307)](https://www.linkedin.com/in/john-smith-029346307)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.johnstar0143@gmail.com)](mailto:defcon.johnstar0143@gmail.com)
 
 
 ### 🚀 Quick Stats
