@@ -54,4 +54,4 @@
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=wjohn0143&show_icons=true&line_height=21&theme=react" alt="wjohn0143's Github Stats" />
