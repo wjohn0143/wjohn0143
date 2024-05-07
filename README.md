@@ -52,6 +52,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.johnstar0143@gmail.com)](mailto:defcon.johnstar0143@gmail.com)
 
 
-### 🚀 Quick Stats
-<p align="center">
-<img width="450" align="left" src="http://master-goy6.vercel.app/api?username=wjohn0143&show_icons=true&line_height=21&theme=react" alt="wjohn0143's Github Stats" />
+
+
