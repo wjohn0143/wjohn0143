@@ -30,9 +30,9 @@
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as a Researcher at **[@ The Ohio State University - Wexner Medical Center 🅾️](https://wexnermedical.osu.edu/)**
+- 🔭 I’m I am a Full Stack Developer Proficient in HTML, CSS, Bootstrap, JavaScript, Vue, Nuxt, React/Next,Node.js,ExpressJS, MongoDB; plus modern libraries and frameworks
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
+  - Fantastic Website Developement & Data Science
   - 🖼 Computer Vision
   - 🛠 DIY Raspberry Pi Projects
   - 🤖 Robotics
