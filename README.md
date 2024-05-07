@@ -25,7 +25,8 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+ I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 ## ⚡️ A Few Quick Facts
 
